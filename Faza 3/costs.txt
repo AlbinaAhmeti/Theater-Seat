@@ -1,0 +1,9 @@
+Në vijim do të paraqitet pasqyra e përgjithshme financiare e të gjitha shpenzimeve që përfshihen në këtë projekt:
+• Resurset njerëzore: 12700 €
+Gjithsej: 12700 €
+• Blerja e domen-it dhe hosting-ut: 150€ për 10 vite
+• Blerja e serverëve 
+           -Windows Server                1025 €
+              -Microsoft SQL Server       1125 €
+Gjithsej: 2300 €
+Duke u bazuar në shifrat e lartshënuara, konstatojmë se kostoja e përgjithshme e projektit “Carpooling (CP)” do të kushtoj:  15000€.
